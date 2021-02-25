@@ -18,3 +18,7 @@ ctrl+shift+PrtScn
 unzip zipfile.zip
 ```
 
+#### List of key commands
+
+https://gitlab.com/cunidev/gestures/-/wikis/xdotool-list-of-key-codes
+
