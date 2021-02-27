@@ -22,3 +22,6 @@ unzip zipfile.zip
 
 https://gitlab.com/cunidev/gestures/-/wikis/xdotool-list-of-key-codes
 
+### Installing miktex on linux mint
+
+https://miktex.org/download
