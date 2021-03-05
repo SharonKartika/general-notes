@@ -19,3 +19,14 @@ git status
 git log
 ```
 
+### Github repo from a local git repo
+
+1. Go to github and create a new repo with the same name as the local repo. Copy the clone link of the new repo.
+
+2. Move to the local repo (make sure it is initialised), open terminal and type, 
+
+   ```bash
+   git remote add origin <git clone link>
+   ```
+
+All set!

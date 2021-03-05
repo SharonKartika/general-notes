@@ -1,1 +1,0 @@
-![image-20210225201351162-1614264635189](/home/sharon/Desktop/Celeste/general-notes/.markdown-assets/Matlab-Installation-linux.assets/image-20210225201351162-1614264635189.png)
