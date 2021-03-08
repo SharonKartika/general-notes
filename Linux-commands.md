@@ -41,3 +41,6 @@ To get a file in anbox,
 adb push 'filelocation/filename' 'storage/download'
 ```
 
+### Changing an app icon
+
+Go to `usr/share/applications`. Right click and choose properties and then select an icon. 
